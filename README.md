@@ -59,19 +59,6 @@ Target Labels:
 
 The main goal of this project is to understand and implement a basic supervised machine learning classification model using real-world sonar signal data.
 
----
-
-## ▶️ How to Run
-
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-```
-
-Open the notebook:
-
-```bash
-jupyter notebook sonar.ipynb
-```
 
 ---
 
